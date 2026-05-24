@@ -17,10 +17,11 @@ See other interfaces at the [official website](https://www.michaelandreuzza.com/
 
 ## Installation
 
-1. Clone into your Zed extensions directory or install from the repo URL.
-2. Select **Sequoia Moonlight Dark** (or any variant) in Zed's theme picker.
+1. In Zed, run **zed: extensions** → **Install Dev Extension** and select this repo.
+2. Open the theme picker (**cmd+k cmd+t** / **ctrl+k ctrl+t**).
+3. Choose **Sequoia Moonlight**, **Sequoia Monochrome**, or **Sequoia Retro**, then pick **Dark** or **Light**.
 
-Available files: `themes/sequoia-moonlight-dark.json`, `themes/sequoia-moonlight-light.json`, `themes/sequoia-monochrome-dark.json`, `themes/sequoia-monochrome-light.json`, `themes/sequoia-retro-dark.json`, `themes/sequoia-retro-light.json`.
+Available files: `themes/sequoia-moonlight.json`, `themes/sequoia-monochrome.json`, `themes/sequoia-retro.json`.
 
 ## Created by
 
