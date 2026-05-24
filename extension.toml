@@ -1,0 +1,7 @@
+id = "sequoia"
+name = "Sequoia"
+version = "1.0.0"
+schema_version = 1
+authors = ["Micheal Andreuzza <michael@andreuzza.com>"]
+description = "Sequoia theme for Zed — Moonlight, Monochrome, and Retro (dark and light)"
+repository = "https://github.com/Sequoia-Theme/zed"
