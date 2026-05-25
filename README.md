@@ -1,26 +1,8 @@
-![Sequoia](https://raw.githubusercontent.com/Sequoia-Theme/assets/main/githubHeader.png)
+# Sequoia for Zed — moved
 
-# Sequoia for Zed
+This repository is deprecated. Do not install from here.
 
-Elegant, minimal, and clean color palette for your tools.
+- **Install:** [zed.dev/extensions/sequoia](https://zed.dev/extensions/sequoia)
+- **Source:** [HarshNarayanJha/zed-sequoia-theme](https://github.com/HarshNarayanJha/zed-sequoia-theme)
 
-See other interfaces at the [official website](https://www.michaelandreuzza.com/vscode/sequoia/).
-
-## Available themes
-
-- **Moonlight Dark** — dark
-- **Moonlight Light** — light
-- **Monochrome Dark** — dark
-- **Monochrome Light** — light
-- **Retro Dark** — dark
-- **Retro Light** — light
-
-## Installation
-
-Install as a dev extension in Zed (**zed: extensions**). Pick Moonlight, Monochrome, or Retro, then Dark or Light.
-
-Available files: `themes/sequoia-moonlight.json`, `themes/sequoia-monochrome.json`, `themes/sequoia-retro.json`, `extension.toml`.
-
-## Created by
-
-[Micheal Andreuzza](https://github.com/michael-andreuzza)
+Theme files are generated locally under `sequoia-ports/zed/` when you run `python3 sequoia/scripts/generate-ports.py`. Open PRs against the source repo above.
